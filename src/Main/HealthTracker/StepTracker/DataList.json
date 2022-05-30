@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"Walk",
+        "time":"Tue 5 Oct, 7:00 PM",
+        "activity":"Evening Walk",
+        "icon":"walking"
+        
+    },
+    {
+        "id":2,
+        "title":"Cycling",
+        "time":"Tue 5 Oct, 8:00 AM",
+        "activity":"Riding with Friends",
+        "icon":"biking"
+        
+    },
+    {
+        "id":3,
+        "title":"Running",
+        "time":"Tue 5 Oct, 5:33 AM",
+        "activity":"Casual Morning Run",
+        "icon":"running"
+        
+    }
+  
+]

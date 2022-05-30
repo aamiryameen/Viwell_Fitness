@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "title":"MENTAL HEALTH",
+        "des":"Live Mastermind",
+        "per":49,
+        "message":12,
+        "name":[
+            {"title":"jon doiels  💬"},
+            {"title":"jon doiels  💬"},
+            {"title":"jon doiels  💬"} 
+
+        ],
+        "user":[
+            {
+                "image":"https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png"
+            },
+            {
+                "image":"https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png"
+            },
+            {
+                "image":"https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png"
+            },
+            {
+                "image":"https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png"
+            },
+            {
+                "image":"https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png"
+            }
+        ] 
+    },
+    {
+        "id":2,
+        "title":"NEWS NEWS 🎉",
+        "des":"3 Minute News",
+        "per":49,
+        "message":12,
+        "name":[
+            { "title":"jon doiels"},
+            {"title":"jon doiels"},
+            {"title":"jon doiels"}
+
+        ],
+        "user":[
+            {
+                "image":"https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png"
+            },
+            {
+                "image":"https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png"
+            },
+            {
+                "image":"https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png"
+            },
+            {
+                "image":"https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png"
+            },
+            {
+                "image":"https://www.pngitem.com/pimgs/m/78-786293_1240-x-1240-0-avatar-profile-icon-png.png"
+            }
+        ] 
+    }
+]
